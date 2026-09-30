@@ -1,0 +1,4 @@
+# No external dependencies required!
+# This project uses standard built-in Python modules:
+# - os
+# - shutil
